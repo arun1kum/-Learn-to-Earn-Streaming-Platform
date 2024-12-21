@@ -1,10 +1,12 @@
 # LearnToEarn
-
+SS: 
 ## Project Description
 LearnToEarn is a blockchain-based platform that incentivizes learning by rewarding users with cryptocurrency for completing courses. It provides a decentralized system where users can gain knowledge and earn rewards for their efforts. The platform's primary goal is to make learning more engaging and rewarding.
 
 ## Contract Address
 0x151A2d5523E0BD4F945Fb91C13F5FA70E8A22689
+![image](https://github.com/user-attachments/assets/b7c5e215-e487-4fc7-9ebc-15e726757fcd)
+
 
 ## Project Vision
 Our vision is to create a decentralized ecosystem where learning becomes a fun, rewarding, and valuable experience. By leveraging blockchain technology, we aim to empower individuals to pursue self-education and skill development, bridging the gap between learning and earning.
